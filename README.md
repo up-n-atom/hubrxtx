@@ -18,6 +18,7 @@ Home Hub 4000 / Giga Hub serial USB jig
 | U1                 | CH340K       | [C18208922](https://www.lcsc.com/product-detail/USB-Converters_WCH-Jiangsu-Qin-Heng-CH340K_C18208922.html) | <https://s.click.aliexpress.com/e/_mKKYYbw> | 1    |
 | J1                 | USB B Micro  | [C145795](https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-U-D-M5DD-W-1_C145795.html) | <https://s.click.aliexpress.com/e/_mMzctcY> | 1    |
 | TP1, TP2, TP3, TP4 | P100-H2      |  | <https://s.click.aliexpress.com/e/_mO8N2oG> | 4    |
+| Plastic Rivet | R4060        |  | <https://a.aliexpress.com/_m0u7X0g>         | 2    |
 
 ## Optional - LEDs
 
